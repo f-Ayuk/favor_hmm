@@ -1,0 +1,5 @@
+activity,n_recordings,total_duration_s,n_windows,meets_90s
+still,17,125.37999999999998,103,True
+standing,20,156.38,126,True
+walking,21,142.62,110,True
+jumping,21,134.7,105,True

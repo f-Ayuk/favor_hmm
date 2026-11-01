@@ -1,0 +1,6 @@
+activity,sensitivity,specificity,accuracy,n_windows
+OVERALL,1.0,1.0,1.0,23
+still,1.0,1.0,1.0,5
+standing,1.0,1.0,1.0,6
+walking,1.0,1.0,1.0,6
+jumping,1.0,1.0,1.0,6
